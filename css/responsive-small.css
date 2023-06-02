@@ -1,0 +1,41 @@
+@charset "UTF-8";
+@media screen and (max-width: 879px){
+
+header{
+    flex-direction: column;
+    height: fit-content;
+}
+
+header{
+    padding: 0px;
+}
+
+header ul{
+    width: 100%;
+    padding: 10px 0px;
+    background-color: #1f1f1f;
+    text-align: center;
+}
+
+#imagem{
+    display: none;
+}
+
+main{
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#formulario{
+    margin: 0px;
+    padding: 0px;
+}
+
+#formulario h2{
+    width: 100%;
+}
+
+}

@@ -1,0 +1,28 @@
+@charset "UTF-8";
+@media screen and (max-width: 950px){
+
+main{
+    justify-content: flex-start;
+}
+
+#imagem{
+    width: 100vw;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+#imagem #img1{
+    display: none;
+}
+
+#imagem #img2{
+    display: block;
+    width: 200px;
+}
+
+header li{
+    margin-left: 10px;
+}
+
+}

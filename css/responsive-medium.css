@@ -1,0 +1,25 @@
+@charset "UTF-8";
+@media screen and (max-width: 1183px){
+
+header{
+    padding: 0px 20px;
+}
+
+header h1{
+    width: 250px;
+    height: 77px;
+}
+
+header ul{
+    margin: 0px;
+}
+
+header li{
+    margin-left: 20px;
+}
+
+#formulario{
+    padding-left: 30px;
+}
+
+}
